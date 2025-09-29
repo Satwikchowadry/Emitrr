@@ -67,7 +67,7 @@ GitHub: [https://github.com/Satwikchowadry](https://github.com/Satwikchowadry)
 
 _Add your live deployed app URL here when available!_
 
----
+https://satwik-emitrr-7777.netlify.app/
 
 Thank you for reviewing my project.
 
